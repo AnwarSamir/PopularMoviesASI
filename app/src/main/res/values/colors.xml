@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brown">#795548</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#F49746</color>
+    <color name="pinkP">#6D4C41</color>
+    <color name="pinkPD">#4E342E</color>
+    <color name="WBAck">#fff</color>
+</resources>
